@@ -1,3 +1,1 @@
-# demo
-Demo
-Hello word !
+# odin-recipes
